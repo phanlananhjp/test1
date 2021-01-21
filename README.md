@@ -3,7 +3,5 @@
 This is my first test
 
 ## Note for today
-1. It is so easy to get distracted
-
-2. And it is so hard to back to focus on something you wan
-3. Vi in terminal is so hard to use today t
+1. Check django
+2. Check Amazon : https://aws.amazon.com/getting-started/?nc2=h_ql_le_gs_rc
